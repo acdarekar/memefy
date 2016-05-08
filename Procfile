@@ -1,0 +1,1 @@
+web: gunicorn memefy.wsgi --log-file -
